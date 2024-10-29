@@ -13,4 +13,8 @@ this picture is playing in brower
 
 - [I watch this video to learn how to build a girl step by step: 【Kurt】Blender零基础入门教程 | Blender中文区新手必刷教程(已完结)](https://www.bilibili.com/video/BV14u41147YH/?vd_source=d4980d8e89a61c578e17921933e9cace)
 
-when I finished the build, improt the model with 
+when I finished the build, export the model with `.glb`
+
+# Step 2. use threejs import model
+
+- the code in `twin.js`
